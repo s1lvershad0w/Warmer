@@ -7,6 +7,5 @@ Why warm up?
 **Supported Email Providers**
 - ProtonMail
 - Outlook
-- Gmail (Work in progress)
 
 ![DeliverEase-Proton](https://user-images.githubusercontent.com/84075091/224493956-460d90e6-a428-476c-9da1-abb3726d611b.png)
